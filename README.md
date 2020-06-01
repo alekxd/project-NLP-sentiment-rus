@@ -1,4 +1,4 @@
-#Sentiment Analysis of Tweets in Russian 
+# Sentiment Analysis of Tweets in Russian 
 
 This repository contains the source code for binary sentiment analysis of tweets in Russian using combination of tf-idf and logistic regression. 
 
